@@ -1,4 +1,21 @@
-## Hi there 👋
+# 🦝 ¡Hola! Soy **Sergio Izquierdo Gonzalez**🦝
+## 🧰 Tecnologías y herramientas
+C++
+Javascript
+Java
+HTML
+CSS
+React
+SaSS
+BootStrap
+AJAX
+GIt
+GIthub
+## 📊 Estadísticas de GitHub
+
+## 🌐 Sobre mí
+
+## ✉️ Contacto
 
 <!--
 **Sergioig17/Sergioig17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
