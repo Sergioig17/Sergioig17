@@ -1,6 +1,6 @@
 # 🦝 ¡Hola! Soy **Sergio Izquierdo Gonzalez**🦝
 ## 🧰 Tecnologías y herramientas
-C++
+C++ 
 Javascript
 Java
 HTML
@@ -12,6 +12,10 @@ AJAX
 GIt
 GIthub
 ## 📊 Estadísticas de GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sergioig17&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergioig17&layout=compact&theme=tokyonight)
+
 
 ## 🌐 Sobre mí
 
