@@ -1,9 +1,16 @@
-<div style="background: linear-gradient(270deg, #4a1092ff, #575656ff); padding: 20px; border-radius: 10px;">
-
+<div style="background: linear-gradient(270deg, #c69afcff, #5a5959ff); padding: 20px; border-radius: 10px;">
 
 # 🦝 ¡Hola! Soy **Sergio Izquierdo Gonzalez**🦝
 
+</div>
+
+---
+
+
+<div style="background:linear-gradient(90deg, #a10000ff, #7769adff); border-radius: 10px">
+
 ## 🧰 Tecnologías y herramientas
+
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="30" alt="C++ Logo" position="box">
 
@@ -27,20 +34,33 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40">
 
+</div>
+
+---
+
+<div style="background-color: #4501ffff; border-radius: 10px">
+
 ## 📊 GitHub Stats
 
 ![profile-details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sergioig17&theme=tokyonight)
 
+</div>
 
+--- 
+
+<div style="background-color:#5a5959ff;color:white; border-radius: 10px">
 
 ## 🌐 Sobre mí
-<div style="color:white">
   Soy una persona caracterizada por su determinación. Respaldado por un trabajo responsable y profesional.Ansioso por el conocimiento y la mejora personal. Constante con mis actividades además de estar dispuesto a escuchar a mis compañeros para debatir sobre cómo realizar nuestro trabajo.
 </div>
 
+---
+
+<div style="color:white;background-color: #c69afcff">
+
 ## ✉️ Contacto
-<div style="color:white">
-  <strong style="color:white">Correo</strong>
-  📧:Sergioizquierdogonzalez05@gmail.com<br/>
+
+  <strong style="color:white">Correo</strong>  📧:Sergioizquierdogonzalez05@gmail.com
   <strong style="color:white">Telefono</strong>📱:652686468
+
 </div>
