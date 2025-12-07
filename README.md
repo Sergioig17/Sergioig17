@@ -1,37 +1,46 @@
-# 🦝 ¡Hola! Soy **Sergio Izquierdo Gonzalez**🦝
-## 🧰 Tecnologías y herramientas
-C++ 
-Javascript
-Java
-HTML
-CSS
-React
-SaSS
-BootStrap
-AJAX
-GIt
-GIthub
-## 📊 Estadísticas de GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sergioig17&show_icons=true&theme=tokyonight)
+<div style="background: linear-gradient(270deg, #4a1092ff, #575656ff); padding: 20px; border-radius: 10px;">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergioig17&layout=compact&theme=tokyonight)
+
+# 🦝 ¡Hola! Soy **Sergio Izquierdo Gonzalez**🦝
+
+## 🧰 Tecnologías y herramientas
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="30" alt="C++ Logo" position="box">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="40">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40">
+
+## 📊 GitHub Stats
+
+![profile-details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sergioig17&theme=tokyonight)
+
 
 
 ## 🌐 Sobre mí
+<div style="color:white">
+  Soy una persona caracterizada por su determinación. Respaldado por un trabajo responsable y profesional.Ansioso por el conocimiento y la mejora personal. Constante con mis actividades además de estar dispuesto a escuchar a mis compañeros para debatir sobre cómo realizar nuestro trabajo.
+</div>
 
 ## ✉️ Contacto
-
-<!--
-**Sergioig17/Sergioig17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="color:white">
+  <strong style="color:white">Correo</strong>
+  📧:Sergioizquierdogonzalez05@gmail.com<br/>
+  <strong style="color:white">Telefono</strong>📱:652686468
+</div>
