@@ -5,7 +5,7 @@
  ![Banner](https://cdn.pfps.gg/banners/8397-cool-naruto.png)
 
 ## 🧰 Tecnologías y herramientas
-<div style="display: flex; gap: 10px; flex-wrap:wrap; padding: 5px;">
+<div style="display: flex; gap: 10px; flex-wrap:wrap; padding: 5px; background: hsla(0, 0%, 65%, 1.00)">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40">
